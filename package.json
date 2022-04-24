@@ -1,9 +1,9 @@
 {
-  "name": "LAB-4",
+  "name": "ICE-12",
   "version": "1.0.0",
-  "description": "Lab 4 for WEBD6201 in the Winter 2022 Semester",
+  "description": "ICE 13 for WEBD6201 in the Winter 2022 Semester",
   "main": "server.js",
-  "author": "Rohail Shah",
+  "author": "Tom Tsiliopoulos",
   "license": "MIT",
   "scripts": {
     "start": "node server.js"
