@@ -1,3 +1,8 @@
+/* Lab 4 - WEBD 6201
+   Rohail Shah
+   100492683
+   April 24, 2022 */
+
 // IIFE -- Immediately Invoked Function Expression
 // AKA Anonymous Self-Executing Function
 (function()

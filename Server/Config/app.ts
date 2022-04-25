@@ -1,3 +1,8 @@
+/* Lab 4 - WEBD 6201
+   Rohail Shah
+   100492683
+   April 24, 2022 */
+
 // import 3rd party modules to support the express server
 import createError from 'http-errors';
 import express, { NextFunction } from 'express';

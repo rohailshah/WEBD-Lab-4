@@ -1,4 +1,9 @@
-import mongoose from 'mongoose';
+/* Lab 4 - WEBD 6201
+   Rohail Shah
+   100492683
+   April 24, 2022 */
+
+   import mongoose from 'mongoose';
 const Schema = mongoose.Schema; // alias for mongoose.Schema
 
 const ContactSchema = new Schema
