@@ -81,11 +81,12 @@
             location.href = "/about";
         });
 
-        $("main").append(`<p id="MainParagraph" class="mt-3">This is the Main Paragraph</p>`);
-        //Article.innerHTML = ArticleParagraph;
-        $("main").append(`<article>
-        <p id="ArticleParagraph" class="mt-3">This is the Article Paragraph</p>
-        </article>`);
+        // Example of injecting text without html
+        // $("main").append(`<p id="MainParagraph" class="mt-3">This is the Main Paragraph</p>`);
+        // Article.innerHTML = ArticleParagraph;
+        // $("main").append(`<article>
+        // <p id="ArticleParagraph" class="mt-3">This is the Article Paragraph</p>
+        // </article>`);
     }
 
     /**
